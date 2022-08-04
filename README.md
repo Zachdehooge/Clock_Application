@@ -1,4 +1,4 @@
-# Time Application
+# Clock Application
 
 > A simple application that displays the time and date currently.
 
