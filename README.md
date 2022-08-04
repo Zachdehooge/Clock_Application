@@ -1,11 +1,12 @@
 # Time Application
+
 > A simple application that displays the time and date currently.
 
-[![Build Status][travis-image]][travis-url]
 
-A simple application to explore JFrames, try-catch exceptions, and threads.
 
-![](header.png)
+A simple application to practice JFrames, try-catch exceptions, and threads.
+
+![](Time_Application.png)
 
 ## Installation
 
@@ -50,4 +51,3 @@ npm test
 3. Commit your changes
 4. Push to the branch 
 5. Create a new Pull Request
-
