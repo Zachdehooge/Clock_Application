@@ -13,30 +13,21 @@ A simple application to practice JFrames, try-catch exceptions, and threads.
 OS X & Linux:
 
 ```sh
-Download zip file
+* Download zip file
 
-Open terminal and CD CD into the main file directory
+* Open terminal and CD into the main file directory
 
-Run the main.java using "Java main" in terminal
+* Run the main.java using "Java main" in terminal
 ```
 
 Windows:
 
 ```sh
-Download zip file
+* Download zip file
 
-Open CMD or powershell and CD into the main file directory
+* Open CMD or powershell and CD into the main file directory
 
-Run the main.java using "Java main" in CMD or powershell
-```
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
+* Run the main.java using "Java main" in CMD or powershell
 ```
 
 ## Release History
