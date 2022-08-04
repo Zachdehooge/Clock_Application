@@ -1,6 +1,6 @@
 # Clock Application
 
-> A simple application that displays the time and date currently.
+> A simple clock application that displays the time and date currently.
 
 
 
